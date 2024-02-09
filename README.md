@@ -1,14 +1,27 @@
 # Competitive Programming
 
-### Repository to show a breadth of Leetcode/Kattis solutions
+### Repository to show a breadth of Leetcode/Kattis stats
 
-### Leetcode statistics and solutions to be added soon
+## [Leetcode Profile](https://leetcode.com/user5583Dn/)
+
+## Leetcode problems solved: 113
+
+|Easy|Medium|Hard|
+|:---|:---|:---|
+|42|69|2|
+
+
+## [Kattis Profile](https://open.kattis.com/users/joshua-smith5)
 
 ## Kattis problems solved: 52
 
-### Links currently only working for python solutions, if 404 look in solutions folder!
+|Easy|Medium|Hard|
+|:---|:---|:---|
+|11|31|10|
 
-|Problem Name|Difficulty|Category|Link|
+Links currently only working for python solutions, if 404 look in solutions folder!
+
+|Problem|Difficulty|Category|Link|
 |:---|:---|:---|:---|
 |[Adding Words](https://open.kattis.com/problems/addingwords)|4.3| Medium |[solution](https://github.com/joshsmithcs/Competitive-Programming/blob/main/solutions/addingwords.py)|
 |[Ants](https://open.kattis.com/problems/ants)|2.3| Easy |[solution](https://github.com/joshsmithcs/Competitive-Programming/blob/main/solutions/ants.py)|
@@ -64,6 +77,8 @@
 |[Typo](https://open.kattis.com/problems/typo)|6.5| Hard |[solution](https://github.com/joshsmithcs/Competitive-Programming/blob/main/solutions/typo.py)|
 
 
-Thanks to Russel for the [AutoKattis](https://github.com/RussellDash332/autokattis) kattis wrapper to be able to pull these stats.
+Thanks to Jeremy for the [LeetCodeStatsApi](https://github.com/JeremyTsaii/leetcode-stats-api) Api to be able to fetch leetcode solve stats.
+
+Thanks to Russel for the [AutoKattis](https://github.com/RussellDash332/autokattis) kattis wrapper to be able to pull kattis stats and problem links.
 
 [Back to main profile](https://github.com/joshsmithcs)
