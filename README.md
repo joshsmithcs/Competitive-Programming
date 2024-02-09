@@ -1,4 +1,4 @@
-# Leetcode/Kattis
+# Competitive Programming
 
 ### Repository to show a breadth of Leetcode/Kattis solutions
 
