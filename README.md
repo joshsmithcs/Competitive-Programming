@@ -61,4 +61,6 @@
 |[Teque](https://open.kattis.com/problems/teque)|4.5| Medium |
 |[Typo](https://open.kattis.com/problems/typo)|6.5| Hard |
 
+Thanks to Russel for the [AutoKattis](https://github.com/RussellDash332/autokattis) kattis wrapper to be able to pull these stats.  
+  
 [Back to main profile](https://github.com/joshsmithcs)
